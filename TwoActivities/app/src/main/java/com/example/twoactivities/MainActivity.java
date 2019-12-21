@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     public static final int TEXT_REQUEST = 1;
     private TextView mReplyHeadTextView;
     private TextView mReplyTextView;
-
     public static final String EXTRA_MESSAGE =
             "com.example.android.twoactivities.extra.MESSAGE";
     private EditText mMessageEditText;
